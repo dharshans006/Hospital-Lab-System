@@ -1,1 +1,0 @@
-# Hospital-Lab-System
